@@ -1,0 +1,25 @@
+#first{
+    background-color: aquamarine;
+}
+#second{
+    background-color: tomato;
+}
+#th{
+    background-color: blanchedalmond;
+}
+#img1{
+    border-radius: 5%;
+}
+#footer{
+    background-color: rgb(211, 211, 211);
+    color: white;
+    height: 60px;
+}
+#footer2{
+    background-color: rgb(175, 55, 0);
+    color: white;
+    height: 150px;
+}
+#a{
+    color: white;
+}
